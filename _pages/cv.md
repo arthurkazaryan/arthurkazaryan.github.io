@@ -30,13 +30,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming
+  * Python, Git, Scikit-learn, Keras, OpenCV, NumPy, Pandas, Librosa, Matplotlib, Seaborn. 
+* Software
+  * PyCharm, Visual Studio Code, Anaconda, Jupyter.
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
