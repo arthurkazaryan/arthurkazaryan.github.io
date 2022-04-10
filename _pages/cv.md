@@ -9,23 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Professional retraining in Data Science**, University of Artificial Intelligence, Moscow, Russia. 2021
+* **B.Arch. in Urban Planning**, Saint Petersburg State University of Architecture and Civil Engineering, St.Petersburg, Russia. 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Junoir Data Scientist / Python Backend.** Apr '21 - Apr '22. *University of Artificial Intelligence*.
+  * Added new algorithms for file processing and continuous support of old ones;
+  * Wrote an algorithms for creating datasets for a number of tasks such as classification, segmentation, object detection, etc.;
+  * Created a layout of a web interface. Worked in a team with designers and front-end developers for implementation;
+  * Wrote and published a documentation for dataset creation process on readthedocs.org.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Science Intern.** Dec '20 - Mar '21. *University of Artificial Intelligence*.
+  * Wrote an algorithms for processing raw data such as images, videos, texts, audio, table data;
+  * Wrote a module for creating and loading datasets and using it in the process of training neural network.
   
 Skills
 ======
@@ -41,19 +42,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
