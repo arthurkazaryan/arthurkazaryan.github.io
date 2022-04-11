@@ -1,6 +1,6 @@
 ---
 title: "Human Pose Classification"
-excerpt: "Detecting the human position on the photo.<br/><img src='/images/500x300.png'>"
+excerpt: "Detecting the human position on the photo.<br/><img src='/images/portfolio/human_pose_classification/main-500x300.jpg'>"
 collection: portfolio
 ---
 

@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **Junoir Data Scientist / Python Backend.** Apr '21 - Apr '22. *University of Artificial Intelligence*.
+* **Junoir Data Scientist / Python Backend.** Apr '21 - Mar '22. *University of Artificial Intelligence*.
   * Added new algorithms for file processing and continuous support of old ones;
   * Wrote an algorithms for creating datasets for a number of tasks such as classification, segmentation, object detection, etc.;
   * Created a layout of a web interface. Worked in a team with designers and front-end developers for implementation;
