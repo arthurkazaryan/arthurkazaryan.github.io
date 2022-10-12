@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Arthur Kazaryan"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "ML-engineer"
-  location         : "St. Petersburg, Russia"
+#  location         : ""
   employer         :
   pubmed           :
   googlescholar    :
