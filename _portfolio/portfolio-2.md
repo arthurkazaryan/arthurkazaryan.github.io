@@ -1,6 +1,6 @@
 ---
 title: "Creating artificial speaking human beings using lip-synchronized animation"
-excerpt: "The project was developed at one of Korpus.io's startups called Metaperson.<br/><img src='/images/portfolio/lipsync/main-500x300.png'>"
+excerpt: "The project was developed at one of Korpus.io's startups called Metaperson.<br/><img src='/images/portfolio/lipsync/main-500x300.jpg'>"
 collection: portfolio
 ---
 
